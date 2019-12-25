@@ -1,0 +1,33 @@
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.deps.json
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.json
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.dll
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.pdb
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfo.cs
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.dll
+C:\Users\Максим\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.pdb
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.deps.json
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.json
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.dev.json
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.dll
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.pdb
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csprojAssemblyReference.cache
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfoInputs.cache
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfo.cs
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.dll
+E:\Задания Programs\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.pdb
+E:\Лаб1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.deps.json
+E:\Лаб1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.json
+E:\Лаб1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.dev.json
+E:\Лаб1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.dll
+E:\Лаб1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.pdb
+E:\Лаб1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csprojAssemblyReference.cache
+E:\Лаб1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\Лаб1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfoInputs.cache
+E:\Лаб1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfo.cs
+E:\Лаб1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.dll
+E:\Лаб1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.pdb
