@@ -1,0 +1,32 @@
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.deps.json
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.runtimeconfig.json
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.runtimeconfig.dev.json
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.dll
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.pdb
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.AssemblyInfo.cs
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.dll
+C:\Users\Дима\Desktop\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.pdb
+E:\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.deps.json
+E:\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.runtimeconfig.json
+E:\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.runtimeconfig.dev.json
+E:\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.dll
+E:\Задания Programs\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.pdb
+E:\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.csprojAssemblyReference.cache
+E:\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.csproj.CoreCompileInputs.cache
+E:\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.AssemblyInfoInputs.cache
+E:\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.AssemblyInfo.cs
+E:\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.dll
+E:\Задания Programs\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.pdb
+E:\Лаб1\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.deps.json
+E:\Лаб1\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.runtimeconfig.json
+E:\Лаб1\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.runtimeconfig.dev.json
+E:\Лаб1\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.dll
+E:\Лаб1\Number3\Number3\bin\Debug\netcoreapp2.1\Number3.pdb
+E:\Лаб1\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.csprojAssemblyReference.cache
+E:\Лаб1\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.csproj.CoreCompileInputs.cache
+E:\Лаб1\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.AssemblyInfoInputs.cache
+E:\Лаб1\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.AssemblyInfo.cs
+E:\Лаб1\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.dll
+E:\Лаб1\Number3\Number3\obj\Debug\netcoreapp2.1\Number3.pdb
