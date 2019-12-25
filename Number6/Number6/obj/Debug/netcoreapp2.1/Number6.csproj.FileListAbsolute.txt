@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\Number6\Number6\bin\Debug\netcoreapp2.1\Number6.deps.json
+C:\Users\Максим\source\repos\Number6\Number6\bin\Debug\netcoreapp2.1\Number6.runtimeconfig.json
+C:\Users\Максим\source\repos\Number6\Number6\bin\Debug\netcoreapp2.1\Number6.runtimeconfig.dev.json
+C:\Users\Максим\source\repos\Number6\Number6\bin\Debug\netcoreapp2.1\Number6.dll
+C:\Users\Максим\source\repos\Number6\Number6\bin\Debug\netcoreapp2.1\Number6.pdb
+C:\Users\Максим\source\repos\Number6\Number6\obj\Debug\netcoreapp2.1\Number6.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Number6\Number6\obj\Debug\netcoreapp2.1\Number6.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Number6\Number6\obj\Debug\netcoreapp2.1\Number6.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Number6\Number6\obj\Debug\netcoreapp2.1\Number6.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Number6\Number6\obj\Debug\netcoreapp2.1\Number6.dll
+C:\Users\Максим\source\repos\Number6\Number6\obj\Debug\netcoreapp2.1\Number6.pdb
