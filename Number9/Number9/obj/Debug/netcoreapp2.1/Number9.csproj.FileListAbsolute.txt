@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\Number9\Number9\bin\Debug\netcoreapp2.1\Number9.deps.json
+C:\Users\Максим\source\repos\Number9\Number9\bin\Debug\netcoreapp2.1\Number9.runtimeconfig.json
+C:\Users\Максим\source\repos\Number9\Number9\bin\Debug\netcoreapp2.1\Number9.runtimeconfig.dev.json
+C:\Users\Максим\source\repos\Number9\Number9\bin\Debug\netcoreapp2.1\Number9.dll
+C:\Users\Максим\source\repos\Number9\Number9\bin\Debug\netcoreapp2.1\Number9.pdb
+C:\Users\Максим\source\repos\Number9\Number9\obj\Debug\netcoreapp2.1\Number9.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Number9\Number9\obj\Debug\netcoreapp2.1\Number9.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Number9\Number9\obj\Debug\netcoreapp2.1\Number9.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Number9\Number9\obj\Debug\netcoreapp2.1\Number9.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Number9\Number9\obj\Debug\netcoreapp2.1\Number9.dll
+C:\Users\Максим\source\repos\Number9\Number9\obj\Debug\netcoreapp2.1\Number9.pdb
